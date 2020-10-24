@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**rithythul/rithythul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi there ✨👋✨
 
 I love bicycling, going to nature and invest time to learn something new. I also like working and solving problem on computer and learning new programming languages. 
 
@@ -12,7 +8,7 @@ I love bicycling, going to nature and invest time to learn something new. I also
 
 - 👯 I’m looking to collaborate on ...
 
-- 🤔 I’m looking for help with building [learning roadmap](https://github.com/koompi/learning-roadmap) for those who love to self directed learning.
+- 🤔 I’m looking for help with building [learning roadmap](https://github.com/koompi/learning-roadmaps) for those who love to self directed learning.
 
 - 💬 Can ask me about startup status in Cambodia and general tech business 
 
