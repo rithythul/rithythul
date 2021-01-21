@@ -12,7 +12,7 @@ I love bicycling, going to nature and invest time to learn something new. I also
 
 - 💬 Can ask me about startup status in Cambodia and general tech business 
 
-- 📫 How to reach me: [Telegram](https://t.me/rithythul), [Twitter](https://twitter.com/rithythul), [LinkedIn](https://linkedin.com/in/rithythul)
+- 📫 How to reach me: [Telegram](https://t.me/rithythul), [LinkedIn](https://linkedin.com/in/rithythul), [Twitter](https://twitter.com/rithythul)
 
 - ⚡ Fun fact: I go to jungle one per month to espape city. My plan is to move to the mountain/jungle area around 3 years from now and work remotely from there. That place is called [VitaminAir](https://vitaminair.org)
 
