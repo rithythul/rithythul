@@ -7,7 +7,7 @@ I love bicycle touring, going to nature and invest time to experience something 
 ### Projects
 - 🔭 [KOOMPI OS](https://koompi.org), a special OS to run on KOOMPI Notebook, we have developed for students. We hope students around the world will learn and benefit from open source community to light up their paths to the future. 
 
-- 🔭 [Selendra](https://selendra.org), is a multichains interoperable nominated Proof-of-Stake network for developing and running Substrate-based and EVM compatible blockchain applications. Selendra docs and network aim to support developers to build blockchain easy minimal learning curve. Selendra's built-in blockchain apps on top of the Selendra network will help onboard users onto blockchain with unbounded blockchain potential benefits. 
+- 🔭 [Selendra](https://selendra.org), a Substrate-based smart contract network supporting WebAssembly (Wasm) and Ethereum Virtual Machine (EVM) technologies, based in Cambodia, tailored for developers and enterprise adoption.
 
 - 🔭 [VitaminAir](https://vitaminair.org), a natural resources tokenization, large scale reforestation with sustainable living village at the core. A pilot for cloudbase community where governing system is base on blockchain DAO.
 
