@@ -11,13 +11,11 @@ I love bicycle touring, going to nature and invest time to experience something 
 
 - 🔭 [VitaminAir](https://vitaminair.org), a natural resources tokenization, large scale reforestation with sustainable living village at the core. A pilot for cloudbase community where governing system is base on blockchain DAO.
 
-- 👯 I’m looking to collaborate on ...
+- 🤔 [Learning Roadmap](https://github.com/koompi/learning-roadmaps) for those who love to self directed learning.
 
-- 🤔 I’m looking for help with building [learning roadmap](https://github.com/koompi/learning-roadmaps) for those who love to self directed learning.
+- 💬 Can ask me about startup status in Cambodia and general tech sense. 
 
-- 💬 Can ask me about startup status in Cambodia and general tech business 
+- 📫 Reach me via [Telegram](https://t.me/rithythul), [LinkedIn](https://linkedin.com/in/rithythul), [Twitter](https://twitter.com/rithythul)
 
-- 📫 How to reach me: [Telegram](https://t.me/rithythul), [LinkedIn](https://linkedin.com/in/rithythul), [Twitter](https://twitter.com/rithythul)
-
-- ⚡ Fun fact: I go to jungle one per month to espape city. My plan is to move to the mountain/jungle area around 3 years from now and work remotely from there. That place is called [VitaminAir](https://vitaminair.org)
+- ⚡ Fun fact: I go to jungle one per month to espape city. My plan is to move to the mountain area around 3 years from now and work remotely from there. That place is called [VitaminAir](https://vitaminair.org)
 
