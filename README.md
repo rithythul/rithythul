@@ -1,1 +1,1 @@
-A daydreamer @smallworld, curator @koompi, @selendra, and @vitaminair. Random notes @telegram.
+A daydreamer [@smallworld](https://smallworldventure.com), [@koompi](https://koompi.com), [@selendra](https://selendra.org), and [@vitaminair](https://vitaminair.org). Random notes [@notetothyself](https://t.me/notestothyself).
